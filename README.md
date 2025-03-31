@@ -1,4 +1,4 @@
-# e-commerce-project
+# E-commerce-project
 ## Project Background
 E-commerce has changed the way businesses sell and customers shop by making transactions faster and more convenient. With growing competition, companies need to understand customer behavior to improve sales, enhance customer experience, and build long-term loyalty. This project analyzes consumer purchasing patterns using data visualization, helping businesses make informed decisions about marketing, pricing, and customer engagement.
 
