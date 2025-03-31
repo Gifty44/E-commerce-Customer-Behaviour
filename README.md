@@ -25,7 +25,7 @@ The dataset used in this project consists of transactional records, customer dem
 
 The E-Commerce Consumer Behavior Dashboard provides a data-driven approach to understanding customer interactions, spending habits, and retention trends. Through insightful visualizations, businesses can optimize marketing strategies, improve retention, and enhance overall performance.
 
-![E-Commerce Dashboard](https://raw.githubusercontent.com/Gifty44/e-commerce-project/main/assets/Supply_dashboard.png)
+![E-Commerce Dashboard](https://raw.githubusercontent.com/Gifty44/e-commerce-project/main/assets/E-commerce_dashboard.png)
 
 
 
