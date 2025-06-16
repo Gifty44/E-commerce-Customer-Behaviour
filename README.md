@@ -27,6 +27,9 @@ The E-Commerce Consumer Behavior Dashboard provides a data-driven approach to un
 
 ![E-Commerce Dashboard](https://raw.githubusercontent.com/Gifty44/e-commerce-project/main/assets/E-commerce_dashboard.png)
 
+![E-Commerce Dashboard](https://github.com/Gifty44/E-commerce-Customer-Behaviour/raw/5dc12b2d253789b888f646d4cada74f55fad0097/E-commerce%20dashboard.png)
+
+
 ![E-Commerce Dashboard](https://github.com/user-attachments/assets/1d6be168-0174-4dcb-8f42-f644cb5921b3)
 
 
